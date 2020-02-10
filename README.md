@@ -10,23 +10,23 @@
 
 - [x] 域名备案 （已完成）
 
-##技术选型
+## 技术选型
 
 - web: react
 - server: nodejs，express，nginx
 - DB： mongoDB
 - app:  react-native(iOS/Android)
 
-###项目名称
+### 项目名称
 -
 NextChallenger的博客
 
-###设计元素
+### 设计元素
 - [ ] logo
 - [x] 字体 系统默认字体
 - [ ] 主题色 （待定）
 
-###功能模块
+### 功能模块
 - 博客模块
  1. 新增博客
  2. 删除博客
